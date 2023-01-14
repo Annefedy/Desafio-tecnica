@@ -1,0 +1,28 @@
+{
+  "name": "desafio-tecnico-globo",
+  "version": "1.0.0",
+  "description": "Page for login and logout and",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annefedy/Desafio-tecnica.git"
+  },
+  "author": "Anne Carine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Annefedy/Desafio-tecnica/issues"
+  },
+  "homepage": "https://github.com/Annefedy/Desafio-tecnica#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2",
+    "http-errors": "^2.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "method-override": "^3.0.0"
+  }
+}
